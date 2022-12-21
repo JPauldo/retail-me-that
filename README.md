@@ -27,7 +27,7 @@ It is quite intuitive. Why not just give it a try?
 
 Below is a demonstration of the application: 
 
-![Alt Text for Placeholder](https://via.placeholder.com/150)
+[![Alt Text for Placeholder](./assets/images/retail_me_that_screenshot.PNG)](https://drive.google.com/file/d/1l2qAjiqC164YPayDtmarIAOYjhmUzHuf/view?usp=share_link)
 
 ## License
 
